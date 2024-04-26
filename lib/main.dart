@@ -86,12 +86,6 @@ class _MyAppState extends State<MyApp> {
               //child: Text('1921'),
               child: Text(benimTestim.d_sikkini_yaz()),
             ),
-            ElevatedButton(
-              onPressed: () {},
-              //child: Text('1921'),
-              child: Text("düz yazı"),
-            ),
-            ElevatedButton(onPressed: () {}, child: Text("child")),
             Text(
               "Sonuc   ",
               style: TextStyle(fontSize: 20),
